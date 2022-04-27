@@ -2,6 +2,7 @@ import style from "./App.module.css";
 import HeroSection from "./Main sections/Hero section/HeroSection";
 import OurSpacesSection from "./Main sections/Our Spaces section/OurSpacesSection";
 import Whyfrispes from "./Main sections/Whyfrispes/Whyfrispes";
+import FacilitiesSection from "./Main sections/Facilities section/FacilitiesSection";
 
 const App = () => {
   return (
@@ -13,7 +14,10 @@ const App = () => {
         <OurSpacesSection />
       </section>
       <section>
-          <Whyfrispes/>
+        <Whyfrispes />
+      </section>
+      <section>
+        <FacilitiesSection />
       </section>
     </div>
   );
