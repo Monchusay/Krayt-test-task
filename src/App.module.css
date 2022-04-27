@@ -2,8 +2,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content:flex-start;
   background-color: #FFFFFF;
   width: 99.2vw;
-  height: 100vw;
+  height: 6780px;
 }
 
