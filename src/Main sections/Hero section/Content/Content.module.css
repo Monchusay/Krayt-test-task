@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap');
+
+.Content {
+    width: 100%;
+    height: 35%;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    cursor: default;
+}
+.Title {
+    width: 60%;
+    height: 100%;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 67px;
+    color: #10375C;
+}
+.Revolutionary {
+    color: #DD2C00;
+}
+.SubTitle {
+    padding-left: 50px;
+    padding-top: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #6A6A6A;
+    width: 40%;
+    height: 100%;
+}

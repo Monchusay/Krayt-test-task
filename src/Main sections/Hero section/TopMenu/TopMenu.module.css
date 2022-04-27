@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Neucha&family=Playfair+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Playfair+Display:wght@600&display=swap');
+
 .TopMenu {
     display: flex;
     flex-direction: row;
@@ -33,6 +36,7 @@
     color: #FF5722;
     cursor: pointer;
 }
+
 .Login {
     display: flex;
     flex-direction: row;
