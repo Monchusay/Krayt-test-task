@@ -3,6 +3,7 @@ import HeroSection from "./Main sections/Hero section/HeroSection";
 import OurSpacesSection from "./Main sections/Our Spaces section/OurSpacesSection";
 import Whyfrispes from "./Main sections/Whyfrispes/Whyfrispes";
 import FacilitiesSection from "./Main sections/Facilities section/FacilitiesSection";
+import GallerySection from "./Main sections/Gallery section/GallerySection";
 
 const App = () => {
   return (
@@ -18,6 +19,9 @@ const App = () => {
       </section>
       <section>
         <FacilitiesSection />
+      </section>
+      <section>
+        <GallerySection />
       </section>
     </div>
   );
