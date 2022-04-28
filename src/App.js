@@ -4,6 +4,7 @@ import OurSpacesSection from "./Main sections/Our Spaces section/OurSpacesSectio
 import Whyfrispes from "./Main sections/Whyfrispes/Whyfrispes";
 import FacilitiesSection from "./Main sections/Facilities section/FacilitiesSection";
 import GallerySection from "./Main sections/Gallery section/GallerySection";
+import UseFrispesSection from "./Main sections/Use Fispes section/UseFrispesSection";
 
 const App = () => {
   return (
@@ -22,6 +23,9 @@ const App = () => {
       </section>
       <section>
         <GallerySection />
+      </section>
+      <section>
+        <UseFrispesSection />
       </section>
     </div>
   );

@@ -5,10 +5,10 @@ import RightSide from "./RightSide/RightSide";
 
 const GallerySection = () => {
   return (
-    <div className={style.GallerySection}>
+    <section className={style.GallerySection}>
       <LeftSIde />
       <RightSide />
-    </div>
+    </section>
   );
 };
 export default GallerySection;

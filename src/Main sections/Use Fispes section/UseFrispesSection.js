@@ -1,15 +1,15 @@
 import React from "react"
-import style from "./FacilitiesSection.module.css"
+import style from "./UseFrispesSection.module.css"
 import Header from "./Header/Header";
 import Content from "./Content/Content";
 
-const FacilitiesSection = () => {
+const UseFrispesSection = () => {
     return (
-        <section className={style.FacilitiesSection}>
+        <section className={style.UseFrispesSection}>
             <Header/>
             <Content/>
         </section>
     )
 }
 
-export default FacilitiesSection
+export default UseFrispesSection
