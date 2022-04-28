@@ -39,7 +39,8 @@
   height: 85%;
   display: flex;
   align-items: flex-end;
-  background: url("https://s3-alpha-sig.figma.com/img/6837/a211/901977e4635ddf22d03cd697e165be19?Expires=1652054400&Signature=bTBE7nsY4BXsXQFLRhwORTGE5EFbGwOR9CJ6cNDpO92YvNk6kIMIYKHpXipzJSWjoZsj6zutgG7CYlC6~1UFjMUzhohx-7Rr03kSTtdrAjL4OguUL9uLThmMwvmPbwpTrPIoEjeSbMKBg-B7wCp90NtwSVzTE80Rykd5Lj6K-uGyNEnci9cJ4BCcjVrJigoAGSZs3zRAIndOQl-xPNzbll8RCJA-OqElRp9d4Ko5zy1RUbM8lO5t6jPiOa-nxZHQoyMaTpDqEXVhzXoi9mzNpw9xNm5MtZ2GnhOQkpqj4Yo53X32BANNSx~BlWm~3EvjvJVKGpuzK3SJP3AdFdmI0w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-image: url("https://s3-alpha-sig.figma.com/img/6837/a211/901977e4635ddf22d03cd697e165be19?Expires=1652054400&Signature=bTBE7nsY4BXsXQFLRhwORTGE5EFbGwOR9CJ6cNDpO92YvNk6kIMIYKHpXipzJSWjoZsj6zutgG7CYlC6~1UFjMUzhohx-7Rr03kSTtdrAjL4OguUL9uLThmMwvmPbwpTrPIoEjeSbMKBg-B7wCp90NtwSVzTE80Rykd5Lj6K-uGyNEnci9cJ4BCcjVrJigoAGSZs3zRAIndOQl-xPNzbll8RCJA-OqElRp9d4Ko5zy1RUbM8lO5t6jPiOa-nxZHQoyMaTpDqEXVhzXoi9mzNpw9xNm5MtZ2GnhOQkpqj4Yo53X32BANNSx~BlWm~3EvjvJVKGpuzK3SJP3AdFdmI0w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-position: center center;
   background-size: cover;
 }
 .Space2 {
@@ -110,6 +111,7 @@
   height: 85%;
   display: flex;
   align-items: flex-end;
-  background: url("https://s3-alpha-sig.figma.com/img/5b7f/a669/c569468d2ceb52d12cbe66435a156785?Expires=1652054400&Signature=VJUsgWRgYvk9tHHN3JRHryRzclJfJ7MSeLF9uuXpzyGqgYhLy~94tFPcdMhopRy9nOi4C~65zIH9tU7xys1z1KMeWF9YbVe8zjqW1tuEtaZNINnJQEE-uWrnjvkP3T7YubP56LHYo~kxNdKgS0hxVXIjC7MXLrRVgkWDIh9N6-O-N3ybcF04Axt2gVVXsh1VyZ-I-DsaB~4vXBGm63YGCJLOlhPdIPFi0Uuln7d6VPKo2ObO5BCd5FctilbsSkXYAD4eIpDiPBrmJqpwutjeq89cO3dhlBwKF2DCtY4yIptZ6pX~ppRs2cYKDzOj5ZVTpC7X822iL5bJdTc0h7NWzg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-image: url("https://s3-alpha-sig.figma.com/img/5b7f/a669/c569468d2ceb52d12cbe66435a156785?Expires=1652054400&Signature=VJUsgWRgYvk9tHHN3JRHryRzclJfJ7MSeLF9uuXpzyGqgYhLy~94tFPcdMhopRy9nOi4C~65zIH9tU7xys1z1KMeWF9YbVe8zjqW1tuEtaZNINnJQEE-uWrnjvkP3T7YubP56LHYo~kxNdKgS0hxVXIjC7MXLrRVgkWDIh9N6-O-N3ybcF04Axt2gVVXsh1VyZ-I-DsaB~4vXBGm63YGCJLOlhPdIPFi0Uuln7d6VPKo2ObO5BCd5FctilbsSkXYAD4eIpDiPBrmJqpwutjeq89cO3dhlBwKF2DCtY4yIptZ6pX~ppRs2cYKDzOj5ZVTpC7X822iL5bJdTc0h7NWzg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-position: center center;
   background-size: cover;
 }

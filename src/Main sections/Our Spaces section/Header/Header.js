@@ -1,6 +1,7 @@
 import React from "react";
 import style from "./Header.module.css";
-import { AiOutlineArrowLeft, AiOutlineArrowRight } from "react-icons/ai";
+import GrayArrow from "./Group 2.svg";
+import OrangeArrow from "./Group 1.svg";
 
 const Header = () => {
   return (
@@ -12,10 +13,10 @@ const Header = () => {
       </div>
       <div className={style.Nav}>
         <div>
-          <AiOutlineArrowLeft className={style.GrayArrow} />
+          <img src={GrayArrow} />
         </div>
         <div>
-          <AiOutlineArrowRight className={style.OrangeArrow} />
+          <img src={OrangeArrow} />
         </div>
       </div>
     </div>
