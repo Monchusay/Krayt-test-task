@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap');
+
+.Reviews {
+    width: 100%;
+    height: 65%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 20px;
+    cursor: default;
+}
+.Review1 {
+    width: 25%;
+    height: 100%;
+    background-color: #10375C;
+    margin-right: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Review1Text {
+    width: 80%;
+    height: 50%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.Review2 {
+    width: 25%;
+    height: 100%;
+    background-color: #10375C;
+    margin-right: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Review3 {
+    width: 20%;
+    height: 100%;
+    background-color: #10375C;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+.Review3Text {
+    width: 85%;
+    height: 50%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.Reviewer1 {
+    margin-top: 30px;
+    width: 80%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+}
+.ReviewerImage {
+    width: 25%;
+    height: 100%;
+    background-image: url("https://s3-alpha-sig.figma.com/img/734a/9e4b/e5a8a8ae1cce543d1fc77d74537af27e?Expires=1652054400&Signature=I~U43FaWpZOfX86eUqz~lJWN-QoLgupHvLi1lY1XkCm4LCNjcqMogssEY-093~MHLauQo-~zbhQWq2H~lZNiWIPqFGDWFeCr8F9YSJjDqVDMp~6AvsyHkL~q4SWYAO9EKyOX3-FQXckJlKmf0ut9kDWzSTBh7V6HAiIh46PFnUX5~M~~Xw4fdiiJDkYLGZx9CtiV67qNPs-XhVpX0Eut5mscOKD4b7mkigH2TtCrn-S5nNFsy9tSaDm4cIAMjDfeKGgu2cUEULLfU7Scz~E582H1MqUslmOKoQaeUIIZ3CjYRMwKt7L2XyAR5BHWMhF4LrMiJZG-4N-vZ2s2MZEckA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-position: center center;
+    background-size: cover;
+    border-radius: 60px;
+    cursor: pointer;
+}
+.Reviewer2Image {
+    width: 25%;
+    height: 100%;
+    border-radius: 60px;
+    background-image: url("https://s3-alpha-sig.figma.com/img/612c/fe6b/29305bd95e3c24e84f8209283f9c6990?Expires=1652054400&Signature=XajBUBxJ1~zu1MtupSQzAcPiDo71twNMcP-y3XhaJh62TWoJLsmffwZ7Aa3xgtSBoyuAUqZqI48Nsht8PH9FVV11Iobk9cj3T538j8HacbI2ue6lIDeL94ofgvXWVFl7xKkn1QgmfksDRcnQqe-SK1tZ4C2SXakioUhrku7JjUocK2ULhi8zLlgn~7V-4DLgrBuQgSPmXV9OBzv~LZ~SXHGLwL2rB2pxoFC3zSliyQMMXmDTTasNLnXbqW~o4BBc9SdErl66w0VP-xi9owX5uTe0n174lxNWW6tVA6Rbqq5-Mrn59owG2WsOz6UCxrEM9PKRjAlRZ90JEwnubgkjyQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-position: center center;
+    background-size: cover;
+    cursor: pointer;
+}
+.Reviewer3 {
+    width: 85%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.Reviewer3Image {
+    width: 30%;
+    height: 100%;
+    border-radius: 60px;
+    background-image: url("https://s3-alpha-sig.figma.com/img/8039/3c18/f7569fa178c904b05af8d7b9f0bdcc3e?Expires=1652054400&Signature=hIC166HEicRLKbZuSOayCl9ZlSEeJfoyAUlxlimepK-Gw7caUsJFb1qAHSkDjCbBExw9vA-Xi9UV~tO4YjFaKpK9SqP03loTHhBt5kVdPYXj6oUiiB2UUm3TcaFTuGLSwxjr8k7KAQlBxP-x9ETFKGQ-SR4dKcLuIjT0B-qX4jz9lEKh~BlaCu--oK6P9JhIJrzUqYcAVsqaCd7~Q~0X4MpF4ptWCeIoWS2UbTyn0vG1IPxbQPdruiyWSygwd4X3Cnw1qN8LLsj1kG3PbxzUFXYMIPgLEjZQ3~Fwssdy0-~NX7kuEKAaB9q7bKG~-twx5N0BDREqSZl-M6Wk0taJrQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-position: center center;
+    background-size: cover;
+    cursor: pointer;
+}
+.ReviewerName {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 20px;
+}
+.ProfileName {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.ProfileWork {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}

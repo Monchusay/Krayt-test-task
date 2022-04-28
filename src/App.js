@@ -5,6 +5,7 @@ import Whyfrispes from "./Main sections/Whyfrispes/Whyfrispes";
 import FacilitiesSection from "./Main sections/Facilities section/FacilitiesSection";
 import GallerySection from "./Main sections/Gallery section/GallerySection";
 import UseFrispesSection from "./Main sections/Use Fispes section/UseFrispesSection";
+import CustomerReviewsSection from "./Main sections/Customer reviews section/CustomerReviewsSection";
 
 const App = () => {
   return (
@@ -26,6 +27,9 @@ const App = () => {
       </section>
       <section>
         <UseFrispesSection />
+      </section>
+      <section>
+        <CustomerReviewsSection />
       </section>
     </div>
   );
