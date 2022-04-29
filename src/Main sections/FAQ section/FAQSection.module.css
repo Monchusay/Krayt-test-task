@@ -1,0 +1,7 @@
+.FAQSection {
+    width: 1200px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}

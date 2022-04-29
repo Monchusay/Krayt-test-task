@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap');
+
+.Boxes {
+    width: 100%;
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.OnlyBoxes {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.BoxShadow {
+    width: 32%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.TextBox {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.BoxButton {
+    position: absolute;
+    top: 5480px;
+    width: 80px;
+    height: 60px;
+    background-color: #FF5722;
+    border: none;
+    cursor: pointer;
+}
+.ButtonArrow {
+    width: 25px;
+    height: 25px;
+    transform: rotate(90deg);
+    color: #FFFFFF;
+}
+.NoShadowTextBox {
+    width: 95%;
+    height: 95%;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Text {
+    width: 85%;
+    height: 50%;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 33px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    cursor: default;
+}
+.BoxShadow:hover .NoShadowTextBox {
+    background-color: #FF5722;
+}
+.BoxShadow:hover .Text {
+    color: #FFFFFF;
+}
+.BoxShadow:hover .BoxButton {
+    background-color: #FFFFFF;
+}
+.BoxShadow:hover .ButtonArrow {
+    color: #FF5722;
+}
+.MoreQuestions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FF5722;
+    cursor: pointer;
+}
+.MoreQuestionsArrow {
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+}

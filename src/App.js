@@ -6,6 +6,9 @@ import FacilitiesSection from "./Main sections/Facilities section/FacilitiesSect
 import GallerySection from "./Main sections/Gallery section/GallerySection";
 import UseFrispesSection from "./Main sections/Use Fispes section/UseFrispesSection";
 import CustomerReviewsSection from "./Main sections/Customer reviews section/CustomerReviewsSection";
+import FAQSection from "./Main sections/FAQ section/FAQSection";
+import NewsInsightsSection from "./Main sections/NewsInsightsSection/NewsInsightsSection";
+import Footer from "./Main sections/Footer/Footer";
 
 const App = () => {
   return (
@@ -30,6 +33,15 @@ const App = () => {
       </section>
       <section>
         <CustomerReviewsSection />
+      </section>
+      <section>
+        <FAQSection />
+      </section>
+      <section>
+        <NewsInsightsSection />
+      </section>
+      <section>
+        <Footer />
       </section>
     </div>
   );

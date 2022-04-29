@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap');
+
+.About {
+    width: 20%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+}
+.AboutTitle {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 67px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.AboutText {
+    width: 90%;
+    height: 40%;
+    display: flex;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #F8F8F8;
+    cursor: default;
+}
+.AboutIcons {
+    width: 40%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.AboutIcon {
+    width: 30px;
+    height: 30px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.AboutIcon:hover {
+    color: #FF5722;
+}
