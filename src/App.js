@@ -10,6 +10,10 @@ import FAQSection from "./Main sections/FAQ section/FAQSection";
 import NewsInsightsSection from "./Main sections/NewsInsightsSection/NewsInsightsSection";
 import Footer from "./Main sections/Footer/Footer";
 
+// Решил писать используя реакт-компоненты, надеюсь вы не против.
+// Буду очень рад получить любой фидбэк, независимо от решения, принятого в пользу другого кандидата.
+// Спасибо за уделенное время.
+
 const App = () => {
   return (
     <div className={style.App}>
