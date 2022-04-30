@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Krayt-test-task-completed/static/css/main.32e68ec1.css",
+    "main.css": "/Krayt-test-task-completed/static/css/main.48bf0129.css",
     "main.js": "/Krayt-test-task-completed/static/js/main.f4040c5d.js",
     "static/js/787.3c172c58.chunk.js": "/Krayt-test-task-completed/static/js/787.3c172c58.chunk.js",
     "static/media/MicrosoftLogo.svg": "/Krayt-test-task-completed/static/media/MicrosoftLogo.17f6db2becb26312414b269aaf5bff6b.svg",
@@ -13,12 +13,12 @@
     "static/media/Group 2.svg": "/Krayt-test-task-completed/static/media/Group 2.4475249bdee580bdb0fc736a1ab9c470.svg",
     "static/media/Group 1.svg": "/Krayt-test-task-completed/static/media/Group 1.2ba58411bc270bc4af9089b73375db04.svg",
     "static/media/Indicator.svg": "/Krayt-test-task-completed/static/media/Indicator.2cf5db86c408937662d156ba50f5e8c7.svg",
-    "main.32e68ec1.css.map": "/Krayt-test-task-completed/static/css/main.32e68ec1.css.map",
+    "main.48bf0129.css.map": "/Krayt-test-task-completed/static/css/main.48bf0129.css.map",
     "main.f4040c5d.js.map": "/Krayt-test-task-completed/static/js/main.f4040c5d.js.map",
     "787.3c172c58.chunk.js.map": "/Krayt-test-task-completed/static/js/787.3c172c58.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32e68ec1.css",
+    "static/css/main.48bf0129.css",
     "static/js/main.f4040c5d.js"
   ]
 }
