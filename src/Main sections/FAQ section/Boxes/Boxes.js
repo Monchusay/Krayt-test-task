@@ -39,7 +39,10 @@ const Boxes = () => {
           </button>
         </div>
       </div>
-      <div className={style.MoreQuestions}>More questions <MdKeyboardArrowRight className={style.MoreQuestionsArrow}/> </div>
+      <div className={style.MoreQuestions}>
+        More questions{" "}
+        <MdKeyboardArrowRight className={style.MoreQuestionsArrow} />{" "}
+      </div>
     </div>
   );
 };

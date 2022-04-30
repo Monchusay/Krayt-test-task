@@ -1,60 +1,60 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap");
 
 .Header {
-    width: 1109px;
-    height: 25%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-end;
-    cursor: default;
+  width: 1109px;
+  height: 25%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  cursor: default;
 }
 .Titles {
-    width: 40%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
+  width: 40%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 .SmallTitle {
-    width: 100%;
-    height: 30%;
-    display: flex;
-    align-items: center;
-    font-family: 'Lato', sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    color: #222831;
+  width: 100%;
+  height: 30%;
+  display: flex;
+  align-items: center;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #222831;
 }
 .SmallTitleRectangle {
-    width: 73px;
-    height: 2px;
-    background-color: #222831;
-    margin-left: 20px;
+  width: 73px;
+  height: 2px;
+  background-color: #222831;
+  margin-left: 20px;
 }
 .LargeTitle {
-    width: 100%;
-    height: 70%;
-    font-family: 'Lora', serif;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 51px;
-    color: #10375C;
+  width: 100%;
+  height: 70%;
+  font-family: "Lora", serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 51px;
+  color: #10375c;
 }
 .NavElements {
-    width: 15%;
-    height: 30%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  width: 15%;
+  height: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .GrayArrow {
-    width: 52.69px;
-    height: 26.05px;
-    cursor: pointer;
+  width: 52.69px;
+  height: 26.05px;
+  cursor: pointer;
 }
 .OrangeArrow {
-    width: 91.69px;
-    height: 26.05px;
-    cursor: pointer;
+  width: 91.69px;
+  height: 26.05px;
+  cursor: pointer;
 }

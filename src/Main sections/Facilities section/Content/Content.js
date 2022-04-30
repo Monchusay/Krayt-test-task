@@ -11,9 +11,7 @@ const Content = () => {
         <span className={style.ContentListElement}>Child playground</span>
         <span className={style.ContentListElement}>Outdoor spaces</span>
       </div>
-        <div className={style.ContentImage}>
-
-        </div>
+      <div className={style.ContentImage}></div>
     </div>
   );
 };

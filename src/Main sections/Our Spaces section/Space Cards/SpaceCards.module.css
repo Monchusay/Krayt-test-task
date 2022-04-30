@@ -57,7 +57,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content:center;
+  justify-content: center;
 }
 .Space2ButtonBackground {
   width: 100%;
@@ -67,11 +67,11 @@
   align-items: flex-end;
 }
 .Space2Title {
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
   font-weight: 400;
   font-size: 32px;
   line-height: 41px;
-  color: #FFFFFF;
+  color: #ffffff;
   padding-bottom: 15px;
   cursor: default;
 }
@@ -81,22 +81,22 @@
   font-size: 18px;
   line-height: 28px;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   cursor: default;
 }
 .Space2Button {
   width: 255px;
   height: 72px;
-  background-color: #FF5722;
+  background-color: #ff5722;
   border: none;
   display: flex;
   align-items: center;
-  justify-content:center;
+  justify-content: center;
   font-family: "Lato", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 22px;
-  color: #FFFFFF;
+  color: #ffffff;
   cursor: pointer;
 }
 .Space3 {

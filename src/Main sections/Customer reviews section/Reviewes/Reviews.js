@@ -13,17 +13,11 @@ const Reviews = () => {
           Thank you for frispes and team.
         </div>
         <div className={style.Reviewer1}>
-            <div className={style.ReviewerImage}>
-
-            </div>
-            <div className={style.ReviewerName}>
-                <span className={style.ProfileName}>
-                    Pedro Ibanez
-                </span>
-                <span className={style.ProfileWork}>
-                    UI Designer at Google
-                </span>
-            </div>
+          <div className={style.ReviewerImage}></div>
+          <div className={style.ReviewerName}>
+            <span className={style.ProfileName}>Pedro Ibanez</span>
+            <span className={style.ProfileWork}>UI Designer at Google</span>
+          </div>
         </div>
       </div>
       <div className={style.Review2}>
@@ -34,33 +28,23 @@ const Reviews = () => {
           work as freelancer for a long time.
         </div>
         <div className={style.Reviewer1}>
-            <div className={style.Reviewer2Image}>
-
-            </div>
-            <div className={style.ReviewerName}>
-                <span className={style.ProfileName}>
-                    Raymond Thual
-                </span>
-                <span className={style.ProfileWork}>
-                    Professional Freelancer
-                </span>
-            </div>
+          <div className={style.Reviewer2Image}></div>
+          <div className={style.ReviewerName}>
+            <span className={style.ProfileName}>Raymond Thual</span>
+            <span className={style.ProfileWork}>Professional Freelancer</span>
+          </div>
         </div>
       </div>
       <div className={style.Review3}>
-        <div className={style.Review3Text}>Just three words : Frispes is Awesome!</div>
+        <div className={style.Review3Text}>
+          Just three words : Frispes is Awesome!
+        </div>
         <div className={style.Reviewer3}>
-            <div className={style.Reviewer3Image}>
-
-            </div>
-            <div className={style.ReviewerName}>
-                <span className={style.ProfileName}>
-                    Yuli Berlian
-                </span>
-                <span className={style.ProfileWork}>
-                    IOS Dev at Tokopedia
-                </span>
-            </div>
+          <div className={style.Reviewer3Image}></div>
+          <div className={style.ReviewerName}>
+            <span className={style.ProfileName}>Yuli Berlian</span>
+            <span className={style.ProfileWork}>IOS Dev at Tokopedia</span>
+          </div>
         </div>
       </div>
     </div>

@@ -17,11 +17,15 @@ const SpaceCards = () => {
         <div className={style.Space2Background}>
           <span className={style.Space2Title}>Private Space</span>
           <span className={style.Space2Content}>
-            Comfortable space, Full speed wifi, Free coffee & Snack and many more
+            Comfortable space, Full speed wifi, Free coffee & Snack and many
+            more
           </span>
         </div>
         <div className={style.Space2ButtonBackground}>
-            <button className={style.Space2Button}>Check availability <MdKeyboardArrowRight className={style.SpaceArrow} /> </button>
+          <button className={style.Space2Button}>
+            Check availability{" "}
+            <MdKeyboardArrowRight className={style.SpaceArrow} />{" "}
+          </button>
         </div>
       </div>
       <div className={style.Space3}>

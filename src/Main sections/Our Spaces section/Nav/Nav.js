@@ -8,7 +8,7 @@ const Nav = () => {
         <div className={style.NavOrangeRectangle}></div>
         <div className={style.NavGrayRectangle}></div>
       </div>
-        <span className={style.NavCounter}>01 / 04</span>
+      <span className={style.NavCounter}>01 / 04</span>
     </div>
   );
 };

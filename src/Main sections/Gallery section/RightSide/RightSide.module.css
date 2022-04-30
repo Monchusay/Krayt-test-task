@@ -1,71 +1,71 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap");
 
 .RightSide {
-    width: 50%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    cursor: default;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  cursor: default;
 }
 .RightSideTitle {
-    width: 100%;
-    height: 40%;
+  width: 100%;
+  height: 40%;
 }
 .SmallTitle {
-    width: 60%;
-    height: 15%;
-    display: flex;
-    align-items: center;
-    margin-left: 80px;
-    font-family: "Lato", sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    color: #222831;
+  width: 60%;
+  height: 15%;
+  display: flex;
+  align-items: center;
+  margin-left: 80px;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #222831;
 }
 .SmallTitleRectangle {
-    width: 73px;
-    height: 2px;
-    background-color: #222831;
-    margin-left: 20px;
+  width: 73px;
+  height: 2px;
+  background-color: #222831;
+  margin-left: 20px;
 }
 .LargeTitle {
-    width: 70%;
-    height: 50%;
-    margin-left: 80px;
-    font-family: 'Lora', serif;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 51px;
-    color: #10375C;
+  width: 70%;
+  height: 50%;
+  margin-left: 80px;
+  font-family: "Lora", serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 51px;
+  color: #10375c;
 }
 .NavElements {
-    width: 20%;
-    height: 10%;
-    margin-left: 80px;
-    display: flex;
-    justify-content: space-between;
-    cursor: pointer;
+  width: 20%;
+  height: 10%;
+  margin-left: 80px;
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
 }
 .RightSideImages {
-    width: 100%;
-    height: 60%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+  width: 100%;
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 .RightSideImage1 {
-    width: 45%;
-    height: 100%;
-    background-image: url("https://s3-alpha-sig.figma.com/img/5148/87ff/aed68e980973bd10ec62b14c9eb75e27?Expires=1652054400&Signature=T1JijNWpnXbryWs88tM54k4JvO0KSzIsECS99VtttXnkrzyQiQq~9ZqzOv-bqNKacNnl5tE-CxJnbCe4w01crwVeisE9AcC~eIf0dtvxgTeBp1H~hyZfJGdwIXER2melit9w1Si0c92Wl7Q-nAWOQH3WyEIp6T8W~WVojP8uCO5rCsrgVGwF9b3oLhxQz8vJk8-Ao74HE7ZOHQEIqLGD8xKTCx4uUoYV7oH3iAFFKdq~O5llYC0qz4aJfImpH~zw8VwpVtVI4diawRSSwfL3g0aR4M-TMfqW2ZiryFVViNefVjH-dDzLwrpSfTg5yZ5Ch~5GHVEEy4PMXEe7rdybog__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
-    background-size:cover;
-    background-position: center center;
-    margin-left: 40px;
+  width: 45%;
+  height: 100%;
+  background-image: url("https://s3-alpha-sig.figma.com/img/5148/87ff/aed68e980973bd10ec62b14c9eb75e27?Expires=1652054400&Signature=T1JijNWpnXbryWs88tM54k4JvO0KSzIsECS99VtttXnkrzyQiQq~9ZqzOv-bqNKacNnl5tE-CxJnbCe4w01crwVeisE9AcC~eIf0dtvxgTeBp1H~hyZfJGdwIXER2melit9w1Si0c92Wl7Q-nAWOQH3WyEIp6T8W~WVojP8uCO5rCsrgVGwF9b3oLhxQz8vJk8-Ao74HE7ZOHQEIqLGD8xKTCx4uUoYV7oH3iAFFKdq~O5llYC0qz4aJfImpH~zw8VwpVtVI4diawRSSwfL3g0aR4M-TMfqW2ZiryFVViNefVjH-dDzLwrpSfTg5yZ5Ch~5GHVEEy4PMXEe7rdybog__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-size: cover;
+  background-position: center center;
+  margin-left: 40px;
 }
 .RightSideImage2 {
-    width: 40%;
-    height: 100%;
-    background-image: url("https://s3-alpha-sig.figma.com/img/a7b1/5d26/120d6218fa3175dabc97c6c2ec6f12c1?Expires=1652054400&Signature=LnUlQWjIx9vIEi-4JKegrN3K5XiUBIQVti58hZPwBgNAMX3wX-m5xiR9sp-gUvzsoKuXSECn4myY6xbKUx2igLY11uhjCiOv28bVLl7WlijFdXNAkBRq9ABMkLJFQQy94~rlqGh-HDYrZ6xMCirOfM5OHv0okTUlWdP7HZL8AtuDHLepeZoYU6cegxqvpIxTMeFh2viZhcQwH~qE~je6TjXUWwRbrV1~kNId74AXI8f4GpsDUh7XRPC-vUBfICVMjqACsnoofTMHSBYYefGEtBKmXGiJZSzgcoNz7vkzdn71y8u9FQWVkgbtVQMjhCW3f~-XqIQdX7zSA~igswG3ng__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
-    background-size:cover;
-    background-position: center center;
+  width: 40%;
+  height: 100%;
+  background-image: url("https://s3-alpha-sig.figma.com/img/a7b1/5d26/120d6218fa3175dabc97c6c2ec6f12c1?Expires=1652054400&Signature=LnUlQWjIx9vIEi-4JKegrN3K5XiUBIQVti58hZPwBgNAMX3wX-m5xiR9sp-gUvzsoKuXSECn4myY6xbKUx2igLY11uhjCiOv28bVLl7WlijFdXNAkBRq9ABMkLJFQQy94~rlqGh-HDYrZ6xMCirOfM5OHv0okTUlWdP7HZL8AtuDHLepeZoYU6cegxqvpIxTMeFh2viZhcQwH~qE~je6TjXUWwRbrV1~kNId74AXI8f4GpsDUh7XRPC-vUBfICVMjqACsnoofTMHSBYYefGEtBKmXGiJZSzgcoNz7vkzdn71y8u9FQWVkgbtVQMjhCW3f~-XqIQdX7zSA~igswG3ng__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-size: cover;
+  background-position: center center;
 }

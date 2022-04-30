@@ -1,66 +1,66 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora&family=Playfair+Display:wght@600&display=swap");
 
 .Content {
-    width: 65%;
-    height: 70%;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-    justify-content: space-evenly;
+  width: 65%;
+  height: 70%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-evenly;
 }
 .Spaces {
-    width: 17%;
-    height: 90%;
-    display: flex;
-    flex-direction: column;
+  width: 17%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
 }
 .Header {
-    width: 100%;
-    height: 20%;
-    font-family: 'Lato', sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    color: #FFFFFF;
-    opacity: 0.5;
-    display: flex;
-    align-items: center;
-    cursor: default;
+  width: 100%;
+  height: 20%;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  opacity: 0.5;
+  display: flex;
+  align-items: center;
+  cursor: default;
 }
 .List {
-    width: 100%;
-    height: 80%;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+  width: 100%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 .ListElement {
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 26px;
-    color: #FFFFFF;
-    padding-top: 10px;
-    cursor: pointer;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #ffffff;
+  padding-top: 10px;
+  cursor: pointer;
 }
 .ListElement:hover {
-    color: #FF5722;
+  color: #ff5722;
 }
 .Company {
-    width: 15%;
-    height: 90%;
-    display: flex;
-    flex-direction: column;
+  width: 15%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
 }
 .Support {
-    width: 15%;
-    height: 90%;
-    display: flex;
-    flex-direction: column;
+  width: 15%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
 }
 .ContactUs {
-    width: 25%;
-    height: 90%;
-    display: flex;
-    flex-direction: column;
+  width: 25%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
 }

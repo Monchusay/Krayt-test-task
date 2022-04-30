@@ -12,22 +12,17 @@ const RightSide = () => {
           <div className={style.SmallTitleRectangle}></div>
         </div>
         <div className={style.LargeTitle}>
-          Immersive beautiful
-            co-working space gallery
+          Immersive beautiful co-working space gallery
         </div>
         <div className={style.NavElements}>
           <img src={GrayArrow} />
           <img src={OrangeArrow} />
         </div>
       </div>
-        <div className={style.RightSideImages}>
-            <div className={style.RightSideImage1}>
-
-            </div>
-            <div className={style.RightSideImage2}>
-
-            </div>
-        </div>
+      <div className={style.RightSideImages}>
+        <div className={style.RightSideImage1}></div>
+        <div className={style.RightSideImage2}></div>
+      </div>
     </div>
   );
 };
