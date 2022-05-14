@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Krayt-test-task-completed/static/css/main.0c092489.css",
-    "main.js": "/Krayt-test-task-completed/static/js/main.f4040c5d.js",
+    "main.css": "/Krayt-test-task-completed/static/css/main.334f009e.css",
+    "main.js": "/Krayt-test-task-completed/static/js/main.2bbd5bc4.js",
     "static/js/787.3c172c58.chunk.js": "/Krayt-test-task-completed/static/js/787.3c172c58.chunk.js",
     "static/media/MicrosoftLogo.svg": "/Krayt-test-task-completed/static/media/MicrosoftLogo.17f6db2becb26312414b269aaf5bff6b.svg",
     "static/media/ShopifyLogo.svg": "/Krayt-test-task-completed/static/media/ShopifyLogo.54be5ff31d38b2f4f5b244125dfa9e25.svg",
@@ -13,12 +13,12 @@
     "static/media/Group 2.svg": "/Krayt-test-task-completed/static/media/Group 2.4475249bdee580bdb0fc736a1ab9c470.svg",
     "static/media/Group 1.svg": "/Krayt-test-task-completed/static/media/Group 1.2ba58411bc270bc4af9089b73375db04.svg",
     "static/media/Indicator.svg": "/Krayt-test-task-completed/static/media/Indicator.2cf5db86c408937662d156ba50f5e8c7.svg",
-    "main.0c092489.css.map": "/Krayt-test-task-completed/static/css/main.0c092489.css.map",
-    "main.f4040c5d.js.map": "/Krayt-test-task-completed/static/js/main.f4040c5d.js.map",
+    "main.334f009e.css.map": "/Krayt-test-task-completed/static/css/main.334f009e.css.map",
+    "main.2bbd5bc4.js.map": "/Krayt-test-task-completed/static/js/main.2bbd5bc4.js.map",
     "787.3c172c58.chunk.js.map": "/Krayt-test-task-completed/static/js/787.3c172c58.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c092489.css",
-    "static/js/main.f4040c5d.js"
+    "static/css/main.334f009e.css",
+    "static/js/main.2bbd5bc4.js"
   ]
 }
